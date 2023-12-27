@@ -15,10 +15,10 @@ def hello():
     else:
         return "Hello World!"
 
-#hostname: localhost
+#hostname: 0.0.0.0
 #default port: 8000
-#url: localhost:8000/hello
-#with params: localhost:8000/hello?option=0
+#url: 0.0.0.0:8000/hello
+#with params: 0.0.0.0:8000/hello?option=0
 
 if __name__ == '__main__':
     app.run(debug=False, port=8000, host="0.0.0.0")
