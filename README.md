@@ -20,7 +20,7 @@ Python Flask Apps:
 
 Docker Containers:
  - Docker Container Video Overview:       https://youtu.be/4Tanq9HhZyI
- - Creating a Python Docker Image:
+ - Creating a Python Docker Image:        https://youtu.be/wgEvD_yuYVY
  - References:
       - What is a Docker Container:       https://www.docker.com/resources/what-container/
       - Creatin an image written guid:    https://www.docker.com/blog/how-to-dockerize-your-python-applications/
