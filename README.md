@@ -4,7 +4,7 @@ Below are videos which consist of lecture overviews and quickstart guiding guide
 A PDF for each lecture's slides can be found in each topics folder.
 Additional references are listed as well.
 
-Python Flask Apps
+Python Flask Apps:
  - Flask Video Overview:                  https://youtu.be/HYUVEo0JPp0
  - Creating a Flask App:                  https://youtu.be/vHFQVFVTBtA
  - References:
