@@ -23,6 +23,6 @@ Docker Containers:
  - Creating a Python Docker Image:        https://youtu.be/wgEvD_yuYVY
  - References:
       - What is a Docker Container:       https://www.docker.com/resources/what-container/
-      - Creatin an image written guid:    https://www.docker.com/blog/how-to-dockerize-your-python-applications/
+      - Creating an image written guide:    https://www.docker.com/blog/how-to-dockerize-your-python-applications/
       - Docker Hub for Python Image:      https://hub.docker.com/layers/library/python/3.8-slim-buster/images/sha256-90834dba6381dfc3957573dc7a3e6c5c8ed255cf60079329a6da2b5e6d4257b8
   
