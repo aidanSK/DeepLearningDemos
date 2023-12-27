@@ -1,4 +1,6 @@
-This repository contains additonal course materials for creating Python Flask.
+This repository contains additional course materials for creating Python Flask applications and deploying them in Docker containers.
+
+Below are videos which consist of lecture overviews and quickstart guiding guides on each topic. Additional references are listed as well.
 
 Python Flask Apps
  - Flask Video Overview:                  https://youtu.be/HYUVEo0JPp0
