@@ -9,7 +9,7 @@ Python Flask Apps
  - Creating a Flask App:                  https://youtu.be/vHFQVFVTBtA
  - References:
    
-      -Flask Documentation:               https://flask.palletsprojects.com/en/2.3.x/
+      - Flask Documentation:               https://flask.palletsprojects.com/en/2.3.x/
       - What is Flask Python:             https://pythonbasics.org/what-is-flask-python/
       - WSGI Basics:                      https://builtin.com/data-science/wsgi
       - PEP 3333 Standard:                https://peps.python.org/pep-3333/
