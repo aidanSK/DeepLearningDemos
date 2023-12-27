@@ -16,6 +16,8 @@ Python Flask Apps
       - Flask Uses:                       https://pythonistaplanet.com/what-can-you-do-with-flask/
       - Written Flask Quickstart:         https://flask.palletsprojects.com/en/2.3.x/quickstart/
 
+
+
 Docker Containers:
  - Docker Container Video Overview:       https://youtu.be/4Tanq9HhZyI
  - Creating a Python Docker Image:
